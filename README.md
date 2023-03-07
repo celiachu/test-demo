@@ -6,5 +6,5 @@
 
 ## 2. 项目目录
 
-[C-2048-demo](https://github.a/celiachu/test-demo/tree/master/C/2048demo)
-[猜数字](https://github.com/celiachu/test-demo/blob/master/checkguess.html)
+[C-2048-demo](C/2048demo)
+[猜数字](/checkguess.html)
