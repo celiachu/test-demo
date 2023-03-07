@@ -6,5 +6,5 @@
 
 ## 2. 项目目录
 
-[C-2048-demo](C/2048demo)
-[猜数字](/checkguess.html)
+* [C-2048-demo](C/2048demo)
+* [猜数字](/checkguess.html)
